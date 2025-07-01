@@ -89,6 +89,7 @@
                                             more than 4,500 experts and professionals across Europe, Canada, the United
                                             States, Australia and the Caribbean.
                                         </p>
+                                        <p><b>Company Registration Number:</b> <?php echo $reg; ?></p>
                                         <div class="row p-t-30">
                                             <div class="large-6 columns">
                                                 <ul class="list-icon check-square-o">

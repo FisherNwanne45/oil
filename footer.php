@@ -125,7 +125,8 @@
 
             <p>
 
-                © 2022 Petroleum All rights reserved.
+                © <?php echo date('Y'); ?> All rights reserved. <?php echo $name; ?>. <br> Company Registration Number:
+                <?php echo $reg; ?>
             </p>
 
         </div>
@@ -134,47 +135,47 @@
     <!-- Move to Top Button -->
     <button id="toTopBtn" title="Go to top">↑</button>
     <style>
-    #toTopBtn {
-        position: fixed;
-        bottom: 30px;
-        right: 30px;
-        z-index: 100;
-        background-color: #ffba00;
-        color: white;
-        border: none;
-        border-radius: 50%;
-        padding: 12px 16px;
-        font-size: 18px;
-        cursor: pointer;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity 0.3s ease;
-    }
+        #toTopBtn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            z-index: 100;
+            background-color: #ffba00;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            padding: 12px 16px;
+            font-size: 18px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
 
-    #toTopBtn.show {
-        opacity: 1;
-        pointer-events: auto;
-    }
+        #toTopBtn.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
     </style>
 </footer>
 <script>
-const toTopBtn = document.getElementById("toTopBtn");
+    const toTopBtn = document.getElementById("toTopBtn");
 
-window.addEventListener("scroll", () => {
-    if (window.scrollY > 300) {
-        toTopBtn.classList.add("show");
-    } else {
-        toTopBtn.classList.remove("show");
-    }
-});
-
-toTopBtn.addEventListener("click", () => {
-    window.scrollTo({
-        top: 0,
-        behavior: "smooth"
+    window.addEventListener("scroll", () => {
+        if (window.scrollY > 300) {
+            toTopBtn.classList.add("show");
+        } else {
+            toTopBtn.classList.remove("show");
+        }
     });
-});
+
+    toTopBtn.addEventListener("click", () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    });
 </script>
 
 <!--/.footer-->
@@ -191,44 +192,44 @@ toTopBtn.addEventListener("click", () => {
     property="stylesheet" media="all" type="text/css">
 
 <script type="text/javascript">
-(function() {
-    var c = document.body.className;
-    c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-    document.body.className = c;
-})();
+    (function() {
+        var c = document.body.className;
+        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+        document.body.className = c;
+    })();
 </script>
 <script type="text/javascript">
-if (typeof revslider_showDoubleJqueryError === "undefined") {
-    function revslider_showDoubleJqueryError(sliderID) {
-        var err = "<div class='rs_error_message_box'>";
-        err += "<div class='rs_error_message_oops'>Oops...</div>";
-        err += "<div class='rs_error_message_content'>";
-        err +=
-            "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
-        err +=
-            "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
-        err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
-        err += "</div>";
-        err += "</div>";
-        var slider = document.getElementById(sliderID);
-        slider.innerHTML = err;
-        slider.style.display = "block";
+    if (typeof revslider_showDoubleJqueryError === "undefined") {
+        function revslider_showDoubleJqueryError(sliderID) {
+            var err = "<div class='rs_error_message_box'>";
+            err += "<div class='rs_error_message_oops'>Oops...</div>";
+            err += "<div class='rs_error_message_content'>";
+            err +=
+                "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+            err +=
+                "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+            err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+            err += "</div>";
+            err += "</div>";
+            var slider = document.getElementById(sliderID);
+            slider.innerHTML = err;
+            slider.style.display = "block";
+        }
     }
-}
 </script>
 <script type='text/javascript' src='wp-includes/js/dist/vendor/regenerator-runtime.minb36a.js?ver=0.13.7'
     id='regenerator-runtime-js'></script>
 <script type='text/javascript' src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'>
 </script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {
-    "api": {
-        "root": "http:\/\/themes.webdevia.com\/petroleum-gas\/index.php?rest_route=\/",
-        "namespace": "contact-form-7\/v1"
-    }
-};
-/* ]]> */
+    /* <![CDATA[ */
+    var wpcf7 = {
+        "api": {
+            "root": "http:\/\/themes.webdevia.com\/petroleum-gas\/index.php?rest_route=\/",
+            "namespace": "contact-form-7\/v1"
+        }
+    };
+    /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/index7661.js?ver=5.4.2'
     id='contact-form-7-js'></script>
@@ -236,26 +237,26 @@ var wpcf7 = {
     id='js-cookie-js'>
 </script>
 <script type='text/javascript' id='woocommerce-js-extra'>
-/* <![CDATA[ */
-var woocommerce_params = {
-    "ajax_url": "\/petroleum-gas\/wp-admin\/admin-ajax.php",
-    "wc_ajax_url": "\/petroleum-gas\/?wc-ajax=%%endpoint%%"
-};
-/* ]]> */
+    /* <![CDATA[ */
+    var woocommerce_params = {
+        "ajax_url": "\/petroleum-gas\/wp-admin\/admin-ajax.php",
+        "wc_ajax_url": "\/petroleum-gas\/?wc-ajax=%%endpoint%%"
+    };
+    /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min7e15.js?ver=5.5.4'
     id='woocommerce-js'>
 </script>
 <script type='text/javascript' id='wc-cart-fragments-js-extra'>
-/* <![CDATA[ */
-var wc_cart_fragments_params = {
-    "ajax_url": "\/petroleum-gas\/wp-admin\/admin-ajax.php",
-    "wc_ajax_url": "\/petroleum-gas\/?wc-ajax=%%endpoint%%",
-    "cart_hash_key": "wc_cart_hash_0f9c13794aade0814f60b3922edcc587",
-    "fragment_name": "wc_fragments_0f9c13794aade0814f60b3922edcc587",
-    "request_timeout": "5000"
-};
-/* ]]> */
+    /* <![CDATA[ */
+    var wc_cart_fragments_params = {
+        "ajax_url": "\/petroleum-gas\/wp-admin\/admin-ajax.php",
+        "wc_ajax_url": "\/petroleum-gas\/?wc-ajax=%%endpoint%%",
+        "cart_hash_key": "wc_cart_hash_0f9c13794aade0814f60b3922edcc587",
+        "fragment_name": "wc_fragments_0f9c13794aade0814f60b3922edcc587",
+        "request_timeout": "5000"
+    };
+    /* ]]> */
 </script>
 <script type='text/javascript'
     src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min7e15.js?ver=5.5.4'

@@ -2,10 +2,11 @@
 
 $name = 'Sovereign Alliance Oil & Gas LTD';
 
-$addr = 'Texas USA';
+$addr = 'Powisland Drive, Derriford, Plymouth';
 
-$phone = '+447883243479';
+$phone = '+447492025160';
 $whatsapp = '+447492025160';
+$reg = '12549422';
 
 $url = 'https://sovereignallianceltd.com';
 

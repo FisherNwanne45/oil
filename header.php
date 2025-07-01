@@ -2,34 +2,34 @@
 
 <!doctype html>
 <html class="no-js" lang="en-US">
-    <!-- Mirrored from themes.webdevia.com/petroleum-gas/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Jul 2022 17:50:37 GMT -->
-    <!-- Added by HTTrack -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Mirrored from themes.webdevia.com/petroleum-gas/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Jul 2022 17:50:37 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <title><?php echo $name; ?> - Gas and Oil Company</title>
-        <meta name='robots' content='max-image-preview:large' />
-        <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
-        <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-        <link rel='dns-prefetch' href='http://s.w.org/' />
-        <meta name="og_site_name" property="og:site_name" content="<?php echo $url; ?>" />
-        <meta name="og:url" property="og:url" content="index.php" />
-        <meta name="og:type" property="og:type" content="website" />
-        <meta name="og:image:secure_url" property="og:image:secure_url"
-            content="wp-content/uploads/2016/07/logo1.png" />
-        <meta name="og:image:alt" property="og:image:alt" content="<?php echo $name; ?>" />
-        <meta name="og:image:type" property="og:image:type" content="image/png" />
-        <meta name="og:image:hright" property="og:image:height" content="300" />
-        <meta name="og:title" property="og:title" content="<?php echo $name; ?>: International Oil & Gas Service" />
-        <meta name="og:description" property="og:description"
-            content="Call Now: <?php echo $phone; ?>, <?php echo $name; ?> ☆  Solutions for Oil and Gas ☆ Building and Construction " />
-        <!-- Include Font Awesome (if not already included) -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title><?php echo $name; ?> - Gas and Oil Company</title>
+    <meta name='robots' content='max-image-preview:large' />
+    <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
+    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <meta name="og_site_name" property="og:site_name" content="<?php echo $url; ?>" />
+    <meta name="og:url" property="og:url" content="index.php" />
+    <meta name="og:type" property="og:type" content="website" />
+    <meta name="og:image:secure_url" property="og:image:secure_url"
+        content="wp-content/uploads/2016/07/logo1.png" />
+    <meta name="og:image:alt" property="og:image:alt" content="<?php echo $name; ?>" />
+    <meta name="og:image:type" property="og:image:type" content="image/png" />
+    <meta name="og:image:hright" property="og:image:height" content="300" />
+    <meta name="og:title" property="og:title" content="<?php echo $name; ?>: International Oil & Gas Service" />
+    <meta name="og:description" property="og:description"
+        content="Company Registration Number: <?php echo $reg; ?>, <?php echo $name; ?> ☆  Solutions for Oil and Gas ☆ Building and Construction " />
+    <!-- Include Font Awesome (if not already included) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-        <style type="text/css">
+    <style type="text/css">
         img.wp-smiley,
         img.emoji {
             display: inline !important;
@@ -42,21 +42,21 @@
             background: none !important;
             padding: 0 !important;
         }
-        </style>
-        <link rel='stylesheet' id='wp-block-library-css'
-            href='wp-includes/css/dist/block-library/style.min69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='wc-block-vendors-style-css'
-            href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style1852.css?ver=5.3.3'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='wc-block-style-css'
-            href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style1852.css?ver=5.3.3'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='contact-form-7-css'
-            href='wp-content/plugins/contact-form-7/includes/css/styles7661.css?ver=5.4.2' type='text/css'
-            media='all' />
-        <link rel='stylesheet' id='rs-plugin-settings-css'
-            href='wp-content/plugins/revslider/public/assets/css/rs6b7f2.css?ver=6.4.8' type='text/css' media='all' />
-        <style id='rs-plugin-settings-inline-css' type='text/css'>
+    </style>
+    <link rel='stylesheet' id='wp-block-library-css'
+        href='wp-includes/css/dist/block-library/style.min69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='wc-block-vendors-style-css'
+        href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style1852.css?ver=5.3.3'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wc-block-style-css'
+        href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style1852.css?ver=5.3.3'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css'
+        href='wp-content/plugins/contact-form-7/includes/css/styles7661.css?ver=5.4.2' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='rs-plugin-settings-css'
+        href='wp-content/plugins/revslider/public/assets/css/rs6b7f2.css?ver=6.4.8' type='text/css' media='all' />
+    <style id='rs-plugin-settings-inline-css' type='text/css'>
         .tp-caption a {
             color: #ff7302;
             text-shadow: none;
@@ -79,48 +79,48 @@
         .tp-caption a:hover {
             color: #ffa902
         }
-        </style>
-        <link rel='stylesheet' id='woocommerce-layout-css'
-            href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout7e15.css?ver=5.5.4' type='text/css'
-            media='all' />
-        <link rel='stylesheet' id='woocommerce-smallscreen-css'
-            href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen7e15.css?ver=5.5.4' type='text/css'
-            media='only screen and (max-width: 768px)' />
-        <link rel='stylesheet' id='woocommerce-general-css'
-            href='wp-content/plugins/woocommerce/assets/css/woocommerce7e15.css?ver=5.5.4' type='text/css'
-            media='all' />
-        <style id='woocommerce-inline-inline-css' type='text/css'>
+    </style>
+    <link rel='stylesheet' id='woocommerce-layout-css'
+        href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout7e15.css?ver=5.5.4' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='woocommerce-smallscreen-css'
+        href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen7e15.css?ver=5.5.4' type='text/css'
+        media='only screen and (max-width: 768px)' />
+    <link rel='stylesheet' id='woocommerce-general-css'
+        href='wp-content/plugins/woocommerce/assets/css/woocommerce7e15.css?ver=5.5.4' type='text/css'
+        media='all' />
+    <style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required {
             visibility: visible;
         }
-        </style>
-        <link rel='stylesheet' id='wd-fonts-body-css'
-            href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%26subset%3Dlatin&amp;ver=1.0.0' type='text/css'
-            media='all' />
-        <link rel='stylesheet' id='wd-fonts-header-css'
-            href='http://fonts.googleapis.com/css?family=Montserrat%3A400%26subset%3Dlatin&amp;ver=1.0.0'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='wd-fonts-navigation-css'
-            href='http://fonts.googleapis.com/css?family=Montserrat%3A400%26subset%3Dlatin&amp;ver=1.0.0'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='Owl-carousel-css'
-            href='wp-content/themes/petroleum/stylesheets/owl.carousel69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='Owl-carousel-theme-css'
-            href='wp-content/themes/petroleum/stylesheets/owl.theme69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='Owl-carousel-animation-css'
-            href='wp-content/themes/petroleum/stylesheets/animate69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='swiper-css'
-            href='wp-content/themes/petroleum/stylesheets/swiper.min69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='font-awesome-css'
-            href='wp-content/themes/petroleum/stylesheets/font-awesome/font-awesome.min69c8.css?ver=5.8.4'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='petroleum_style-css'
-            href='wp-content/themes/petroleum/stylesheets/app69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='woocommerce-css'
-            href='wp-content/themes/petroleum/stylesheets/woocommerce69c8.css?ver=5.8.4' type='text/css' media='all' />
-        <link rel='stylesheet' id='custom-style-css' href='wp-content/themes/petroleum/style69c8.css?ver=5.8.4'
-            type='text/css' media='all' />
-        <style id='custom-style-inline-css' type='text/css'>
+    </style>
+    <link rel='stylesheet' id='wd-fonts-body-css'
+        href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%26subset%3Dlatin&amp;ver=1.0.0' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='wd-fonts-header-css'
+        href='http://fonts.googleapis.com/css?family=Montserrat%3A400%26subset%3Dlatin&amp;ver=1.0.0'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wd-fonts-navigation-css'
+        href='http://fonts.googleapis.com/css?family=Montserrat%3A400%26subset%3Dlatin&amp;ver=1.0.0'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='Owl-carousel-css'
+        href='wp-content/themes/petroleum/stylesheets/owl.carousel69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='Owl-carousel-theme-css'
+        href='wp-content/themes/petroleum/stylesheets/owl.theme69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='Owl-carousel-animation-css'
+        href='wp-content/themes/petroleum/stylesheets/animate69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='swiper-css'
+        href='wp-content/themes/petroleum/stylesheets/swiper.min69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css'
+        href='wp-content/themes/petroleum/stylesheets/font-awesome/font-awesome.min69c8.css?ver=5.8.4'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='petroleum_style-css'
+        href='wp-content/themes/petroleum/stylesheets/app69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='woocommerce-css'
+        href='wp-content/themes/petroleum/stylesheets/woocommerce69c8.css?ver=5.8.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='custom-style-css' href='wp-content/themes/petroleum/style69c8.css?ver=5.8.4'
+        type='text/css' media='all' />
+    <style id='custom-style-inline-css' type='text/css'>
         .single-post .wd-title-bar {
             background: url(wp-content/uploads/2018/08/titlebar-bg.jpg) no-repeat #6DD676;
             background-size: cover;
@@ -330,66 +330,66 @@
             width: 200px;
             height: 200px;
         }
-        </style>
-        <link rel='stylesheet' id='js_composer_front-css'
-            href='wp-content/plugins/js_composer/assets/css/js_composer.minbdeb.css?ver=6.7.0' type='text/css'
-            media='all' />
-        <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'>
-        </script>
-        <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
-            id='jquery-migrate-js'></script>
-        <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rbtools.min75e4.js?ver=6.4.5'
-            id='tp-tools-js'></script>
-        <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.minb7f2.js?ver=6.4.8'
-            id='revmin-js'></script>
-        <script type='text/javascript'
-            src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'
-            id='jquery-blockui-js'></script>
+    </style>
+    <link rel='stylesheet' id='js_composer_front-css'
+        href='wp-content/plugins/js_composer/assets/css/js_composer.minbdeb.css?ver=6.7.0' type='text/css'
+        media='all' />
+    <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'>
+    </script>
+    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
+        id='jquery-migrate-js'></script>
+    <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rbtools.min75e4.js?ver=6.4.5'
+        id='tp-tools-js'></script>
+    <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.minb7f2.js?ver=6.4.8'
+        id='revmin-js'></script>
+    <script type='text/javascript'
+        src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'
+        id='jquery-blockui-js'></script>
 
-        <script type='text/javascript'
-            src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min7e15.js?ver=5.5.4'
-            id='wc-add-to-cart-js'></script>
-        <script type='text/javascript'
-            src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cartbdeb.js?ver=6.7.0'
-            id='vc_woocommerce-add-to-cart-js-js'></script>
-        <script type='text/javascript'
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcmvSA1VvwVKgtNBzsswD3rzafLCrRcuk&amp;ver=5.8.4"
-            id='googlemaps-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/foundation69c8.js?ver=5.8.4'
-            id='foundation-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/owl.carousel.min69c8.js?ver=5.8.4'
-            id='owl-carousel-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/modernizr69c8.js?ver=5.8.4'
-            id='modernizr-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/parallax69c8.js?ver=5.8.4'
-            id='parallax-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/localscroll69c8.js?ver=5.8.4'
-            id='localscroll-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/appear69c8.js?ver=5.8.4'
-            id='appear-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/smoothscroll.min69c8.js?ver=5.8.4'
-            id='smoothscroll-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/classie.min69c8.js?ver=5.8.4'
-            id='classie-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/ismobile69c8.js?ver=5.8.4'
-            id='ismobile-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/counterup69c8.js?ver=5.8.4'
-            id='counterup-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/swiper.min69c8.js?ver=5.8.4'
-            id='swiper-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/waypoints69c8.js?ver=5.8.4'
-            id='waypoints-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/scripts69c8.js?ver=5.8.4'
-            id='petroleum_scripts-js'></script>
-        <script type='text/javascript' src='wp-content/themes/petroleum/js/shortcode/script-shortcodes69c8.js?ver=5.8.4'
-            id='shortcodes-js-js'></script>
-        <link rel="https://api.w.org/" href="index52f0.json?rest_route=/" />
-        <link rel="alternate" type="application/json" href="indexc36f.json?rest_route=/wp/v2/pages/883" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
-        <link rel="canonical" href="index.php" />
-        <link rel='shortlink' href='index.php' />
-        <style type="text/css" data-type="vc_shortcodes-custom-css">
+    <script type='text/javascript'
+        src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min7e15.js?ver=5.5.4'
+        id='wc-add-to-cart-js'></script>
+    <script type='text/javascript'
+        src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cartbdeb.js?ver=6.7.0'
+        id='vc_woocommerce-add-to-cart-js-js'></script>
+    <script type='text/javascript'
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcmvSA1VvwVKgtNBzsswD3rzafLCrRcuk&amp;ver=5.8.4"
+        id='googlemaps-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/foundation69c8.js?ver=5.8.4'
+        id='foundation-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/owl.carousel.min69c8.js?ver=5.8.4'
+        id='owl-carousel-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/modernizr69c8.js?ver=5.8.4'
+        id='modernizr-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/parallax69c8.js?ver=5.8.4'
+        id='parallax-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/localscroll69c8.js?ver=5.8.4'
+        id='localscroll-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/appear69c8.js?ver=5.8.4'
+        id='appear-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/smoothscroll.min69c8.js?ver=5.8.4'
+        id='smoothscroll-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/classie.min69c8.js?ver=5.8.4'
+        id='classie-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/ismobile69c8.js?ver=5.8.4'
+        id='ismobile-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/counterup69c8.js?ver=5.8.4'
+        id='counterup-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/swiper.min69c8.js?ver=5.8.4'
+        id='swiper-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/vendor/waypoints69c8.js?ver=5.8.4'
+        id='waypoints-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/scripts69c8.js?ver=5.8.4'
+        id='petroleum_scripts-js'></script>
+    <script type='text/javascript' src='wp-content/themes/petroleum/js/shortcode/script-shortcodes69c8.js?ver=5.8.4'
+        id='shortcodes-js-js'></script>
+    <link rel="https://api.w.org/" href="index52f0.json?rest_route=/" />
+    <link rel="alternate" type="application/json" href="indexc36f.json?rest_route=/wp/v2/pages/883" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
+    <link rel="canonical" href="index.php" />
+    <link rel='shortlink' href='index.php' />
+    <style type="text/css" data-type="vc_shortcodes-custom-css">
         .vc_custom_1452018381447 {
             padding-top: 100px !important;
         }
@@ -427,28 +427,28 @@
             margin-bottom: 0px !important;
             background-color: #ffd200 !important;
         }
-        </style>
-        <noscript>
-            <style>
+    </style>
+    <noscript>
+        <style>
             .woocommerce-product-gallery {
                 opacity: 1 !important;
             }
-            </style>
-        </noscript>
-        <style type="text/css">
+        </style>
+    </noscript>
+    <style type="text/css">
         .recentcomments a {
             display: inline !important;
             padding: 0 !important;
             margin: 0 !important;
         }
-        </style>
-        <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+    </style>
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
 
-        <link rel="icon" href="wp-content/uploads/2016/04/favicon-32x32.png" sizes="32x32" />
-        <link rel="icon" href="wp-content/uploads/2016/04/favicon-32x32.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="wp-content/uploads/2016/04/favicon-32x32.png" />
-        <meta name="msapplication-TileImage" content="wp-content/uploads/2016/04/favicon-32x32.png" />
-        <script type="text/javascript">
+    <link rel="icon" href="wp-content/uploads/2016/04/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="wp-content/uploads/2016/04/favicon-32x32.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="wp-content/uploads/2016/04/favicon-32x32.png" />
+    <meta name="msapplication-TileImage" content="wp-content/uploads/2016/04/favicon-32x32.png" />
+    <script type="text/javascript">
         function setREVStartSize(e) {
             //window.requestAnimationFrame(function() {				 
             window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
@@ -501,8 +501,8 @@
             }
             //});
         };
-        </script>
-        <style type="text/css" data-type="vc_shortcodes-custom-css">
+    </script>
+    <style type="text/css" data-type="vc_shortcodes-custom-css">
         .vc_custom_1462132343353 {
             padding-bottom: 0px !important;
         }
@@ -570,11 +570,11 @@
         .vc_custom_1451926431099 {
             padding-top: 40px !important;
         }
-        </style><noscript>
-            <style>
+    </style><noscript>
+        <style>
             .wpb_animate_when_almost_visible {
                 opacity: 1;
             }
-            </style>
-        </noscript>
-    </head>
+        </style>
+    </noscript>
+</head>
