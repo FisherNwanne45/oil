@@ -1,0 +1,16 @@
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 5
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: url in /home/exxoebjm/public_html/en/submit.php on line 10
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 14
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 17
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: phone in /home/exxoebjm/public_html/en/submit.php on line 18
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 18
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: addr in /home/exxoebjm/public_html/en/submit.php on line 477
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: phone in /home/exxoebjm/public_html/en/submit.php on line 480
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 512
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 536
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: phone in /home/exxoebjm/public_html/en/submit.php on line 548
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: addr in /home/exxoebjm/public_html/en/submit.php on line 555
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 579
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 582
+[16-Jul-2022 04:56:22 America/New_York] PHP Notice:  Undefined variable: name in /home/exxoebjm/public_html/en/submit.php on line 585
+[16-Jul-2022 05:15:27 America/New_York] PHP Notice:  Undefined variable: email in /home/exxoebjm/public_html/en/contact.php on line 3
