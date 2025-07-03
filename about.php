@@ -213,9 +213,11 @@
                                         <div class="wd-team-member">
                                             <h4 class="wd-title-element">About our CEO</h4>
                                             <p>
-                                                Logan began by working for a well established commercial general
+                                                <?php echo $ceo; ?> began by working for a well established commercial
+                                                general
                                                 contractor and in the next five years, he advanced to VP of Operations.
-                                                Over the years, Logan developed skills necessary to run a successful
+                                                Over the years, <?php echo $ceo; ?> developed skills necessary to run a
+                                                successful
                                                 Energy business. Then his shift in focus began with his desire to be
                                                 involved in design, development and construction. </p>
                                         </div>
@@ -229,7 +231,7 @@
                                                 loading="lazy"
                                                 srcset="wp-content/uploads/2015/11/team-2.jpg 250w, wp-content/uploads/2015/11/team-2-100x100.jpg 100w, wp-content/uploads/2015/11/team-2-150x150.jpg 150w, wp-content/uploads/2015/11/team-2-180x180.jpg 180w"
                                                 sizes="(max-width: 250px) 100vw, 250px" />
-                                            <h4 class="wd-title-element">Parsley Montana</h4>
+                                            <h4 class="wd-title-element"><?php echo $ceo; ?></h4>
 
                                         </div>
 

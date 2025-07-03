@@ -7,7 +7,7 @@ $addr = 'Powisland Drive, Derriford, Plymouth';
 $phone = '+447492025160';
 $whatsapp = '+447492025160';
 $reg = '12549422';
-
+$ceo = 'Ryan Woods';
 $url = 'https://sovereignallianceltd.com';
 
 $email = 'info@sovereignallianceltd.com';
